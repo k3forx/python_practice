@@ -62,7 +62,7 @@ def main():
         "host": "127.0.0.1",
         "user": "lag_cv_write_user",
         "db": "lag_cv",
-        "passwd": "write_only",
+        "passwd": "xxxxxxx",
         "charset": "utf8mb4",
         "cursorclass": pymysql.cursors.DictCursor,
     }
