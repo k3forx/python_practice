@@ -1,0 +1,16 @@
+from log import get_logger
+from times import times_number
+
+
+def main():
+    logger = get_logger("Main")
+    logger.info("Start")
+
+    for i in range(10):
+        string = tim
+         = i**2
+        logger.info(j)
+
+
+if __name__ == "__main__":
+    main()
